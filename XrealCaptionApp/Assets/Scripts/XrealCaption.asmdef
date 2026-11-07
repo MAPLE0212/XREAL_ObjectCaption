@@ -1,0 +1,20 @@
+{
+    "name": "XrealCaption",
+    "rootNamespace": "XrealCaption",
+    "references": [
+        "Unity.XR.XREAL",
+        "Unity.InputSystem",
+        "UnityEngine.UI",
+        "Unity.XR.CoreUtils",
+        "Unity.InferenceEngine"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
